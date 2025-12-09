@@ -1,4 +1,4 @@
-Hello, I'm Mukund 👋
+# Hello, I'm Mukund 👋
 
 Strong hands-on mechanical engineer and material behavior researcher with growing skills in computer science and data-driven problem solving.  
 Currently focused on strengthening core fundamentals in coding while building a clear technical portfolio.
