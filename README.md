@@ -5,7 +5,7 @@ Currently focused on strengthening core fundamentals in coding while building a 
 
 # What I have completed
 - Incremental active learning of python fundamentals tracked in jupyter notebooks
-  *(Repo: Python-progression, Dec-Jan 2025)*
+  *(Repo: Python-basics-progression, Dec-Jan 2025)*
 
 # What I’m working on
 - **CS50x – Introduction to Computer Science (HarvardX)**
@@ -14,7 +14,7 @@ Currently focused on strengthening core fundamentals in coding while building a 
 
 - **Python Data Handling**
   Learning to access and handle files, modules, dictionaries, intro to data science and object oriented programming 
-  *(Repo: Python-progression)*
+  *(Repo: Python-data-progression)*
 
 # Goals
 - Build strong technical capability for research in engineering / applied science
