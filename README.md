@@ -3,13 +3,17 @@
 Strong hands-on mechanical engineer and material science researcher with growing skills in computer science and data-driven problem solving.  
 Currently focused on strengthening core fundamentals in coding while building a clear technical portfolio.
 
+# What I have completed
+- Incremental active learning of python fundamentals tracked in jupyter notebooks
+  *(Repo: Python-progression, Dec-Jan 2025)*
+
 # What I’m working on
 - **CS50x – Introduction to Computer Science (HarvardX)**
   Foundations in programming, algorithms, and computational thinking  
   *(Repo: CS50x)*
 
-- **Python Fundamentals**
-  Practice using Jupyter notebooks and real, incremental exercises  
+- **Python Data Handling**
+  Learning to access and handle files, modules, dictionaries, intro to data science and object oriented programming 
   *(Repo: Python-progression)*
 
 # Goals
